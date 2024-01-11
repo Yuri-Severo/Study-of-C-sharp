@@ -1,0 +1,15 @@
+B:\documentos\ESTUDY OF C#\exercicioFixacao2\exercicioFixacao2\bin\Debug\net8.0\exercicioFixacao2.exe
+B:\documentos\ESTUDY OF C#\exercicioFixacao2\exercicioFixacao2\bin\Debug\net8.0\exercicioFixacao2.deps.json
+B:\documentos\ESTUDY OF C#\exercicioFixacao2\exercicioFixacao2\bin\Debug\net8.0\exercicioFixacao2.runtimeconfig.json
+B:\documentos\ESTUDY OF C#\exercicioFixacao2\exercicioFixacao2\bin\Debug\net8.0\exercicioFixacao2.dll
+B:\documentos\ESTUDY OF C#\exercicioFixacao2\exercicioFixacao2\bin\Debug\net8.0\exercicioFixacao2.pdb
+B:\documentos\ESTUDY OF C#\exercicioFixacao2\exercicioFixacao2\obj\Debug\net8.0\exercicioFixacao2.GeneratedMSBuildEditorConfig.editorconfig
+B:\documentos\ESTUDY OF C#\exercicioFixacao2\exercicioFixacao2\obj\Debug\net8.0\exercicioFixacao2.AssemblyInfoInputs.cache
+B:\documentos\ESTUDY OF C#\exercicioFixacao2\exercicioFixacao2\obj\Debug\net8.0\exercicioFixacao2.AssemblyInfo.cs
+B:\documentos\ESTUDY OF C#\exercicioFixacao2\exercicioFixacao2\obj\Debug\net8.0\exercicioFixacao2.csproj.CoreCompileInputs.cache
+B:\documentos\ESTUDY OF C#\exercicioFixacao2\exercicioFixacao2\obj\Debug\net8.0\exercicioFixacao2.sourcelink.json
+B:\documentos\ESTUDY OF C#\exercicioFixacao2\exercicioFixacao2\obj\Debug\net8.0\exercicioFixacao2.dll
+B:\documentos\ESTUDY OF C#\exercicioFixacao2\exercicioFixacao2\obj\Debug\net8.0\refint\exercicioFixacao2.dll
+B:\documentos\ESTUDY OF C#\exercicioFixacao2\exercicioFixacao2\obj\Debug\net8.0\exercicioFixacao2.pdb
+B:\documentos\ESTUDY OF C#\exercicioFixacao2\exercicioFixacao2\obj\Debug\net8.0\exercicioFixacao2.genruntimeconfig.cache
+B:\documentos\ESTUDY OF C#\exercicioFixacao2\exercicioFixacao2\obj\Debug\net8.0\ref\exercicioFixacao2.dll
